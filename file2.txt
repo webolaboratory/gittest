@@ -1,2 +1,4 @@
 this is my file two for git course
 adding more content to file two.
+
+2026 footer note added
